@@ -183,6 +183,10 @@ body {
   letter-spacing: 0.5px;
   font-family: 'Roboto Condensed', sans-serif;
 }
+.feature-info
+{
+margin: 0;
+}
 
 .feature {
   width: 340px;
